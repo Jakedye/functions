@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+char *reverse_string(char *string); // Function prototype (.h contains prtotypes not definitions)
+
+
+Header files:
+angle brackets look in system files (< >)
+quotes look in our directory (" ")
+
+size_t strlen (const char *s) // finds string length
+
